@@ -1,5 +1,3 @@
-# web-scaper-addresses
-
 1. Скачать и установить на компьютер NodeJS 18.16.0 LTS
 https://nodejs.org/en 
 
